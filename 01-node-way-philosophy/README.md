@@ -104,3 +104,5 @@ while(!resorces.isEmpty()) {
 -   Node way는 더 작고 간단하며 최소한의 필요 기능만을 노출한다는 의미를 갖고 있음
 -   리액터 패턴
 -   다음장에서는 Node.js의 주제들 중에서 가장 근본적이고 중요한 "모듈 시스템"
+
+GIT_COMMITTER_DATE="Jan 09 23:52:03 2023 +0900" git commit --amend --date "Jan 09 23:52:03 2023 +0900”
